@@ -1,0 +1,20 @@
+# Build outputs
+/build/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+
+# Local/generated helper files
+build-owned-window-proxy.bat
+srs_owned_window.log
+srs-modern-patch-backups/
+/release/SRS-Modern-Patch/
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+.vs/
+.vscode/

@@ -1,7 +1,3 @@
-# srsfanpatch
-This is a fan and AI made modernization patch for the game Street Racing Syndicate, I am one person, not a studio of developers, there will be bugs, I did not write the code, AI did. If it works for you please share it, otherwise report any bugs, there shouldn't be anything bad, AI made it so proceed at your own risk and evaluate the code, enjoy!
-
-
 # Street Racing Syndicate Modern Patch
 
 Modern borderless-window patch for the Windows/Steam version of **Street Racing Syndicate**.
@@ -16,7 +12,6 @@ This repository does not contain `SRS.EXE`, original game assets, or any files f
 - Startup display chooser:
   - `Widescreen` fills the current borderless view.
   - `Letterbox` keeps a centered classic 4:3 frame with black bars.
-  - The chooser uses two scrubbed image buttons with no text prompt.
 - Keyboard and mouse input routed to the owned render window.
 - Windows key remains available for normal Windows shortcuts.
 - XInput controller bridge for common driving/menu controls.
@@ -42,7 +37,7 @@ For the simplest install, download the repository or release zip, extract it, ru
 1. Close Street Racing Syndicate.
 2. Download and extract either the repository zip or `release/SRS-Modern-Patch.zip`.
 3. Run `Install-SRS-Modern-Patch.bat`.
-4. If the installer does not auto-detect the game, enter the folder containing `SRS.EXE`.
+4. If the installer does not auto-detect the game, select the folder containing `SRS.EXE`.
 
 For Steam installs, the target folder is usually:
 
