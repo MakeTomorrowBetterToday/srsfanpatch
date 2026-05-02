@@ -1,3 +1,9 @@
+1. CLICK CODE (THE GREEN BUTTON)
+2. CLICK DOWNLOAD ZIP
+3. EXTRACT THE ZIP ON YOUR COMPUTER ANYWHERE
+4. RUN Install-SRS-Modern-Patch.bat
+5. It will scan for an installation, when it finds it, just hit enter, if it can't you should be prompted to select the install folder, to find your install folder, right click Street Racing Syndicate in your library, select manage, and then browse local files, note the path and navigate there with folder select.
+
 # Street Racing Syndicate Modern Patch
 
 Modern borderless-window patch for the Windows/Steam version of **Street Racing Syndicate**.
